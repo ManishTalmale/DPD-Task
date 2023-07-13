@@ -1,0 +1,66 @@
+.department{
+    height: 100px;
+    margin-bottom: 15px;
+    background-color: #90c0ab;
+    border-radius: 50%;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-left: 130px;
+}
+
+.btn-box a{
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #ab1fa9;
+    color: #ffffff;
+    border-radius: 5px;
+    transition: all 0.3s;
+    border: 1px solid #1f36ab;
+    text-decoration: none;
+
+}
+a, a:hover {
+    text-decoration: none;
+    color: #62d2a2;
+    background-color: #fff;
+}
+
+
+@media (min-width:0px) and (max-width:767px){
+
+.logo1{
+    margin-left: 6em;
+}
+.bd{
+border-right: none;
+}
+.butt{
+    margin-left: 0em;
+}
+}
+@media (min-width:375px){
+.mlogo{
+    margin-left: 8em;
+}
+.butone{
+    margin-left: 0em;
+}
+}
+@media (min-width:425px){
+.mlarge{
+    margin-left: 9.3em;
+}
+.butone{
+    margin-left: 0em;
+}
+}
+@media (min-width:992px) and (max-width:1400px){
+.lap{
+    margin-left: 0em;
+}
+}

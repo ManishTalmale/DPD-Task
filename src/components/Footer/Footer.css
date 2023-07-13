@@ -1,0 +1,85 @@
+.txtt{
+    text-align: start;
+    color: #fff;
+    font-weight: normal;
+    font-size: 15px;    
+}
+.social-icons {
+    background: #686565;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 50px;
+    height: 35px;
+    line-height: 20px;
+    padding: 7px 7px;
+    text-align: center;
+    transition: all 0.5s ease 0s;
+    width: 35px;
+    margin-right: 10px;
+}
+.social-icons:hover{
+    color: #333;
+}
+@media (min-width:0px) and (max-width:767px){
+ .footone{
+    margin-left:1.5em;
+    text-align: center;
+ }
+ .footsec{
+   margin-left:2.2em;
+    text-align: center; 
+ } 
+ .footsec-p{
+   margin-left:5em;
+    text-align: center; 
+ }
+ .foot-3{
+   margin-left: -2.2em;
+    text-align: center; 
+ } 
+ .footnews{
+    margin-left: 1.5em;
+    text-align: center;
+ }
+ .email{
+    margin-left: 1.5em;
+    width: 15em;
+ }
+ .submit{
+    margin-left: 3.8em;
+ } 
+ .copy{
+    margin-left: 1.5em;
+ }
+}
+@media (min-width:425px){
+.em{
+    margin-left: 1.5em;
+}
+.subbut{
+   margin-left: 1.7em;
+}
+.place{
+   margin-left: 1.3em;
+}
+}
+@media (min-width:375px){
+.emdiv{
+   margin-left: 3.2em;
+}
+.emsubmit{
+   margin-left: 5.5em;
+}
+}
+@media (min-width:992px) and (max-width:1400px){
+   .lapfull{
+       margin-left: -5em;
+       width: 10em;
+   }
+   .lap-place {
+      margin-left: -5em;
+   }
+   .lap-but{
+      margin-left: -1.7em;
+   }
+   }

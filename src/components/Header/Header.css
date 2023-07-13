@@ -1,0 +1,98 @@
+.cartitem{
+  font-size: 20px;
+  color: #fff;
+}
+.bgnav {
+  width: auto;
+  margin-top: 40em;
+}
+.nav-link {
+  margin: 0 10px;
+}
+.under:hover{
+  color:black;
+}
+.bo{
+  text-shadow:0px 5px rgb(27, 16, 24) ;
+  font-weight: bold;
+}
+/* .bgimg{
+  background-image: url("../../Images/why-sec-bg.jpg");
+  min-height: 520px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: -80px;
+  z-index: -1;
+} */
+
+.bgimg {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 520px;
+  margin-top: -80px;
+  z-index: -1;
+  animation: slideshow 10s infinite;
+}
+
+@keyframes slideshow {
+  30% {
+    background-image: url("../../Images/why-sec-bg.jpg");
+    animation: none;
+  }
+  60% {
+    background-image: url("../../Images/slide2.jpg");
+    animation:normal;
+  }
+  100% {
+    background-image: url("../../Images/slise3.jpg");
+    animation:normal;
+  }
+}
+
+.carousel-inner
+{
+  position: absolute;
+  top: 260px;
+  right: 400px;
+}
+.navbar-fixed-top {
+ top: 5;
+  left: 0;
+  width: 100%;
+  z-index:1;
+  margin-top: -8px;
+  background-color: rgba(72, 72, 73, 0.29) !important;
+}
+
+.type{
+  text-shadow:0px 3px grey ;
+ color:white; 
+ padding-top: 5rem; 
+ margin: auto 0; 
+ font-weight: normal;
+ }
+ .shadow{
+  text-shadow:none ;
+  text-decoration: none;
+ }
+ .height{
+  margin-top: 5em;
+ }
+
+ @media (min-width:0px) and (max-width: 767px){
+  .body{
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+  }
+  .navbar-fixed-top{
+    background-color: rgba(72, 72, 73, 0.29) !important;
+    height:0px;    
+  }
+  .height{
+    margin-top:6em;
+  }
+ }
+
