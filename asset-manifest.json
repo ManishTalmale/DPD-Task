@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DPD-Task/static/css/main.3f598928.css",
+    "main.js": "/DPD-Task/static/js/main.ba361c3b.js",
+    "static/media/m2.png": "/DPD-Task/static/media/m2.78a4ee80178f7ef7820f.png",
+    "static/media/slide2.jpg": "/DPD-Task/static/media/slide2.bd51ffd1bec9836d5c32.jpg",
+    "static/media/slise3.jpg": "/DPD-Task/static/media/slise3.88ea3ad2b99e71314e76.jpg",
+    "static/media/why-sec-bg.jpg": "/DPD-Task/static/media/why-sec-bg.88f53dd35f59c74772b7.jpg",
+    "static/media/service.jpg": "/DPD-Task/static/media/service.f052212dda5adee02c02.jpg",
+    "static/media/d4.jpg": "/DPD-Task/static/media/d4.e41509961520fb2ab59c.jpg",
+    "static/media/d2.jpg": "/DPD-Task/static/media/d2.3d89ad1bdaf50375901d.jpg",
+    "static/media/m1.png": "/DPD-Task/static/media/m1.021300b0fb773c44971d.png",
+    "static/media/about-bg.jpg": "/DPD-Task/static/media/about-bg.8956d8c2ab39e0262241.jpg",
+    "static/media/m3.png": "/DPD-Task/static/media/m3.bfb0ea8221c689200e9b.png",
+    "static/media/d3.jpg": "/DPD-Task/static/media/d3.1666a20083d818827d86.jpg",
+    "static/media/d1.jpg": "/DPD-Task/static/media/d1.9f5f4e2f7455a4ce7d67.jpg",
+    "index.html": "/DPD-Task/index.html",
+    "main.3f598928.css.map": "/DPD-Task/static/css/main.3f598928.css.map",
+    "main.ba361c3b.js.map": "/DPD-Task/static/js/main.ba361c3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f598928.css",
+    "static/js/main.ba361c3b.js"
+  ]
+}
